@@ -17,7 +17,7 @@ We never collect or maintain information from those we actually know are under 1
 By using our app, you consent to our privacy policy.
 
 ## Contacting Us
-If you have questions regarding this privacy policy, please email [privacy@intervalapp.dev](mailto:privacy@intervalapp.dev).
+If you have questions regarding this privacy policy, please email [privacy@blta.co](mailto:privacy@blta.co?subject=Interval App Privacy Policy).
 
 ## Policy Changes
 If we decide to change our privacy policy, we will post summary of those changes here:
